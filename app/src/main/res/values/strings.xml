@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">WidgetEX</string>
+
+    <string name="imageButton1">Image1</string>
+    <string name="imageButton1_info">This is image1.</string>
+
+    <string name="imageButton2">Image2</string>
+    <string name="imageButton2_info">This is image2.</string>
+
+    <string name="imageButton3">Image3</string>
+    <string name="imageButton3_info">This is image3.</string>
+
+    <string name="imageButton4">Image4</string>
+    <string name="imageButton4_info">This is image4.</string>
+
+    <string name="imageButton5">Image5</string>
+    <string name="imageButton5_info">This is image5.</string>
+
+    <string name="imageButton6">Image6</string>
+    <string name="imageButton6_info">This is image6.</string>
+
+    <string name="imageButton7">Image7</string>
+    <string name="imageButton7_info">This is image7.</string>
+
+    <string name="imageButton8">Image8</string>
+    <string name="imageButton8_info">This is image8.</string>
+
+
+
 </resources>
